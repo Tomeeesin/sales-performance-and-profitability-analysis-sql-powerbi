@@ -11,6 +11,10 @@ Uploading SQL FOR SALES ANALYSIS .mp4…
 #POWER BI - Power BI was used to build an interactive dashboard that visualizes sales performance, profitability, cost efficiency, sales representative effectiveness, and customer demographics for data-driven decision-making.
 
 
+
+https://github.com/user-attachments/assets/d79265ac-017f-40cc-ad28-708f216ccfc5
+
+
 Uploading BI sales analysis 2.mp4…
 
 my.sharepoint.com/:u:/g/personal/160903064_live_unilag_edu_ng/IQB3Eu4sdBW0Ro0xS22R5pcPAUV3F9tR0nHEMzwXaB1OSh8?e=5Mmi0r
